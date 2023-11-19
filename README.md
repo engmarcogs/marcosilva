@@ -3,7 +3,7 @@ Graduando em Engenharia de Software | Entusiasta de Desenvolvimento<br><br>📚 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E)](https://www.instagram.com/devmarcosilva/#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devmarcosilva/#)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-silva-062667298/)
 
 # 💻 Tech Stack:
